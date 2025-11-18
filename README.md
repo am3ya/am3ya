@@ -4,7 +4,7 @@
 
 - <b>M. Moral Corp (Unreal Engine 5)</b>
   - [First-Person walking simulator to profile a player's susceptibility to cognitive biases](https://github.com/am3ya/BiasTraining)
-- <b>Blitzbox (C, C++, CMake, GLSL, FMod)</b>
+- <b>Blitzbox (C, C++, CMake, OpenGL, GLSL, FMod)</b>
   - [Cross-platform multiplayer boomer shooter with modifiable world-orientation](https://github.com/kieranknowles1/csc8508-team-project)
   - [Itch.io page](https://abarnett.itch.io/blitzbox)
 - <b>Wise Workout (Dart, Flutter)</b>
