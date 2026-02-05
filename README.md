@@ -9,6 +9,8 @@
   - [Itch.io page](https://abarnett.itch.io/blitzbox)
 - <b>Wise Workout (Dart, Flutter)</b>
   - [Social fitness application that uses phone sensors to calculate calories burned](https://github.com/am3ya/WiseWorkout)
+- <b>Jewel Heist (GDScript, Godot Engine 4.6)</b>
+  - [Top-down 2D stealth game prototype developed in 48 hours during GGJ '26](https://github.com/kieranknowles1/ggj-mask)
 
 <h2>Connect with me:</h2>
 
